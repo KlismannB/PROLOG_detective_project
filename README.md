@@ -6,7 +6,7 @@
 
 ## Desenvolvimento
 
-> O jogo consiste em um jogo de perguntas e respostas a ser desenvolvido com movimentação de personágens e o usuário tem de tentar entrar a resposta certa no formato answer(&suspect, &victim, &weapon).
+> O jogo consiste em um jogo de perguntas e respostas a ser desenvolvido com movimentação de personágens e o usuário tem de tentar entrar a resposta certa no formato get_answer(&suspect, &victim, &weapon).
 
 ## Conclusão
 
