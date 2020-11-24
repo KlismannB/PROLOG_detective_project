@@ -7,9 +7,11 @@
 ## Desenvolvimento
 
 > Comandos a serem usados incialmente
->> start(true). [Inicia o jogo e dita as regras chaves para chegar a solução]
->> places(X, Y). [Exibe lugares e pessoas, lugares e objetos]
->> use o método get_key_hint(true). para obter a dica chave para solucionar o mistério
+>> start(true). 
+  >>[Inicia o jogo e dita as regras chaves para chegar a solução]
+> places(X, Y). 
+  >>[Exibe lugares e pessoas, lugares e objetos]
+> use o método get_key_hint(true). para obter a dica chave para solucionar o mistério
 
 > O jogo consiste em um jogo de perguntas e respostas a ser desenvolvido com movimentação de personágens e o usuário tem de tentar entrar a resposta certa no formato get_answer(&suspect, &victim, &weapon).
 
