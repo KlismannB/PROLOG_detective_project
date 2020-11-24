@@ -1,6 +1,3 @@
-/* GENDERS */
-male(lucas).
-
 /* POSSIBLE ROOMS FOR THE CRIMES TO HAPPEN */
 room(kitchen).
 room(living_room).
@@ -53,6 +50,7 @@ place(roof,iron_bar).
 /* MURDER */
 murder(lucas, maria, knife).
 
+/* MAIN METHODS */
 get_first_hint(true) :-
     write('p = It was on the kitchen').
 
